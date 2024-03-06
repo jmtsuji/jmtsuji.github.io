@@ -4,8 +4,7 @@ contact_note: "メールアドレス：[ at ] をアットマークに置き換�
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.latest_posts: últimas postagens
-latest_posts: 最新の記事
+latest_posts: 最新記事
 news: ニュース
 site_description: シンプルな、空白のある学者用テーマ。[*folio](https://github.com/bogoli/-folio) デザインに基づく。
 archive_category: このカテゴリーの記事のアーカイブ

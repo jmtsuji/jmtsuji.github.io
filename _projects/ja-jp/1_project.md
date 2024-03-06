@@ -1,82 +1,51 @@
 ---
-page_id: project_1
+page_id: exploring_analogues
 layout: page
-title: projeto 1
-description: um projeto com imagem de fundo
-img: assets/img/12.jpg
+title: Exploring analogues of ancient Earth ocean ecosystems
+description: Probing unique modern environments to peer back through time at ancient metabolisms and nutrient cycles
+img: assets/img/boreal-shield-lake-crop.jpg
 importance: 1
-category: work
-related_publications: true
+related_publications: false
 ---
 
-Cada projeto tem uma bela página de apresentação de recursos.
-É fácil incluir imagens em um formato flexível de grade de 3 colunas.
-Faça suas fotos 1/3, 2/3 ou largura total.
-
-Para dar um plano de fundo ao seu projeto na página do portfólio, basta adicionar a tag img ao front Matter assim:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/boreal-shield-lake.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Boreal Shield lake at the IISD-Experimental Lakes Area (Ontario, Canada).
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Conditions on the surface of the ancient Earth are thought to have been drastically different than they are today.
+In the Archaean Eon of Earth's history (approximately 3.8-2.5 billion years ago), starting from when the planet was cool
+enough to support liquid water, the Earth's surface was likely devoid of molecular oxygen and was overlain by an
+atmosphere rich (by today's standards) in carbon dioxide and methane. The oceans for much of the Archaean Eon were rich
+in dissolved, ferrous iron based on modern rock records, and were poor in sulfate and sulfide -- quite different from
+the sulfate-rich and oxygenated oceans of today. This early period of Earth's history is presumably when life would have
+arisen and early microbial metabolisms key to modern nutrient cycling would have arisen -- things like photosynthesis,
+nitrogen fixation, and carbon and iron metabolisms. Early microbial ecosystems must have eventually exploited the open
+ocean, rich in iron -- but how did these communities function? How did their anoxic and reducing ecosystem influence
+their evolution? And how did they, likewise, shape the conditions of the Earth? One limit to our ability to answer such
+questions comes from the fact that the surface of the modern Earth is drastically different than that of the early
+planet. Microbes and marco-scale life (like us) have adapted to cope with and take advantage of the high levels of
+molecular oxygen in the atmosphere, and aquatic environments like the ancient ocean are hard to find. As such, it's
+hard to test hypotheses of how ancient life may have functioned at an ecosystem scale, given the rarity of analogous
+modern environments, and it's hard to seek out microorgansims that may have retained some of the traits crucial to
+the success of early life.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+In my research, we seek out novel ecosystems that be used as analogues of ancient Earth oceans and probe these systems
+for the unusual microbial life that they contain. Much of my graduate work focused on iron-rich Boreal Shield lakes at
+the <a href='http://iisd.org/ela/'>International Institute for Sustainable Development Experimental Lakes Area
+(IISD-ELA; Ontario, Canada)</a>. We explored whether seasonally anoxic Boreal Shield lakes (that only develop
+O<sub>2</sub>-free waters for part of each year, followed by seasonal mixing) could serve as a unique type of Archaean
+ocean analogue that, although not stably anoxic, are far more abundant globally than any other class of iron-rich and
+anoxic aquatic system currently known. We showed that these lakes can develop anaerobic microbial communities upon
+anoxia that are robust against seasonal mixing (Schiff *et al*., Sci Rep, 2017) and that these lakes harbour
+anoxygenic phototrophs in the *Chlorobia* class that have the genomic potential for iron oxidation, a poorly studied
+processes within this group that may have been highly relevant on ancient Earth (Tsuji *et al*., ISME J, 2020). We are
+continuing to sample diverse aquatic environments that can potentially serve as early Earth ocean analogues (leading to
+some great field work experiences!), and we are studying the microorganisms in these environments using a combination of
+environmental DNA/RNA sequencing and enrichment cultivation of key microorganisms in the lab. This work is shedding new
+light on poorly understood microbial metabolisms that could have helped shape the course of Earth's history and is
+giving us a new window into the vast microbial diversity on our modern planet.

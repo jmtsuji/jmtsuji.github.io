@@ -2,9 +2,9 @@
 page_id: blog
 layout: default
 permalink: /blog/
-title: blog
-blog_name: al-folio em português brasileiro
-description: um tema simples para acadêmicos
+title: Blog
+blog_name: Photo-geo-micro-eco
+description: A blog exploring miscellaneous research themes related to microbial ecology and Earth history
 nav: true
 nav_order: 1
 pagination:
@@ -87,7 +87,7 @@ pagination:
                     {% assign year = post.date | date: "%Y" %}
 
                     <p class="post-meta">
-                      Leitura de {{ read_time }} min &nbsp; &middot; &nbsp;
+                      {{ read_time }} min read &nbsp; &middot; &nbsp;
                       <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
                         <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
                     </p>
@@ -144,7 +144,7 @@ pagination:
       </h3>
       <p>{{ post.description }}</p>
       <p class="post-meta">
-        Leitura de {{ read_time }} min &nbsp; &middot; &nbsp;
+        {{ read_time }} min read &nbsp; &middot; &nbsp;
         {% include date_format.liquid format="long" date_from=post %}
         {% if post.external_source %}
         &nbsp; &middot; &nbsp; {{ post.external_source }}
