@@ -1,0 +1,35 @@
+{% if page.chart and page.chart.apexcharts %}
+  <script
+    src="https://cdn.jsdelivr.net/npm/apexcharts@3.45/dist/apexcharts.min.js"
+    integrity="sha256-SQkKKOiAPbEWrvIQnoPnAiUIFiQDiTPKu21mYmmY1G8="
+    crossorigin="anonymous"
+  ></script>
+  <script>
+    let theme = localStorage.getItem('theme');
+
+    /* Create apexcharts diagram as another node and hide the code block, appending the apexcharts node after it
+       this is done to enable retrieving the code again when changing theme between light/dark */
+    document.querySelectorAll('pre>code.language-apexcharts').forEach((elem) => {
+      const jsonData = elem.textContent;
+      const backup = elem.parentElement;
+      backup.classList.add('unloaded');
+      /* create apexcharts node */
+      let chartElement = document.createElement('div');
+      chartElement.classList.add('apexcharts');
+      backup.after(chartElement);
+
+      let jsonDataObj = JSON.parse(jsonData);
+
+      /* set theme if theme is not enforced */
+      if (!('theme' in jsonDataObj)) {
+        jsonDataObj.theme = {
+          mode: theme,
+        };
+      }
+
+      /* create apexcharts */
+      var chart = new ApexCharts(chartElement, jsonDataObj);
+      chart.render();
+    });
+  </script>
+{% endif %}
