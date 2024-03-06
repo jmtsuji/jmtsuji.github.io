@@ -1,104 +1,95 @@
 blog:
   navigation_title: blog
-categories:
-  fun: diversão
-  work: trabalho
-contact_note: Você pode até adicionar uma pequena observação sobre qual dessas é a melhor maneira de entrar em contato com você.
+contact_note: "メールアドレス：[ at ] をアットマークに置き換えてください"
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
-  Desenvolvido em <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> com o tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
-  Hospedado por <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Fotos do <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-latest_posts: últimas postagens
-news: novidades
-selected_publications: publicações selecionadas
-site_description: Um tema simples para acadêmicos. Baseado no design do [*folio](https://github.com/bogoli/-folio).
-archive_category: um arquivo de postagens desta categoria
-archive_tag: um arquivo de postagens com este marcador
-archive_year: um arquivo de postagens deste ano
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.latest_posts: últimas postagens
+latest_posts: 最新の記事
+news: ニュース
+site_description: シンプルな、空白のある学者用テーマ。[*folio](https://github.com/bogoli/-folio) デザインに基づく。
+archive_category: このカテゴリーの記事のアーカイブ
+archive_tag: このタグの記事のアーカイブ
+archive_year: この年に掲載した記事のアーカイブ
 related_posts:
-  description: "Aqui estão alguns artigos relacionados que você pode gostar de ler:"
-  title: Gostou de Ler este Artigo?
-references: Referências
+  description: "関係がある記事はこちら："
+  title: この記事をお読みになりましたか？
+references: 参考文献
 months:
   long:
-    january: Janeiro
-    february: Fevereiro
-    march: Março
-    april: Abril
-    may: Maio
-    june: Junho
-    july: Julho
-    august: Agosto
-    september: Setembro
-    october: Outubro
-    november: Novembro
-    december: Dezembro
+    january: 1月
+    february: 2月
+    march: 3月
+    april: 4月
+    may: 5月
+    june: 6月
+    july: 7月
+    august: 8月
+    september: 9月
+    october: 10月
+    november: 11月
+    december: 12月
   short:
-    january: Jan
-    february: Fev
-    march: Mar
-    april: Abr
-    may: Mai
-    june: Jun
-    july: Jul
-    august: Ago
-    september: Set
-    october: Out
-    november: Nov
-    december: Dez
-no_news: Nenhuma novidade no momento...
+    january: 1月
+    february: 2月
+    march: 3月
+    april: 4月
+    may: 5月
+    june: 6月
+    july: 7月
+    august: 8月
+    september: 9月
+    october: 10月
+    november: 11月
+    december: 12月
+no_news: 今のところニュースはない...
 pagination:
-  newer: Recentes
-  older: Antigas
-  page: página
+  newer: より新しい
+  older: より古い
+  page: ページ
 cv:
-  address: Endereço
-  area: Área
-  awarder: Premiado por
-  awards: Prêmios
-  basics: Informações gerais
-  certificates: Certificados
-  city: Cidade
-  countryCode: Código do país
-  courses: Cursos
-  date: Data
-  education: Educação
-  email: Email
-  endDate: Data de término
-  fluency: Fluência
-  highlights: Destaques
-  image: Imagem
-  institution: Instituição
-  interests: Interesses
-  issuer: Emissor
-  keywords: Palavras chave
-  label: Título
-  language: Idioma
-  languages: Idiomas
-  level: Nível
-  location: Localização
-  name: Nome
-  network: Rede
-  organization: Organização
-  phone: Telefone
-  position: Posição
-  postalCode: Código postal
-  profiles: Perfis
-  projects: Projetos
-  publications: Publicações
-  publisher: Editora
-  reference: Referência
-  references: Referências
-  region: Região
-  releaseDate: Data de lançamento
-  score: Pontuação
-  skills: Habilidades
-  startDate: Data de início
-  studyType: Tipo de estudo
-  summary: Resumo
-  table_of_contents: Tópicos
-  title: Título
-  url: Url
-  username: Usuário
-  volunteer: Voluntário
-  work: Trabalho
+  address: 住所
+  area: エリア
+  awards: Awards
+  basics: 一般的な情報
+  city: 都市
+  countryCode: 国名コード
+  date: 日程
+  education: Education
+  email: メールアドレス
+  endDate: 勤務終了日
+  fluency: 流暢さ
+  highlights: Highlights
+  image: 画像
+  institution: 機関
+  keywords: キーワード
+  label: ラベル
+  language: 言語
+  languages: 言語
+  level: Level
+  location: 場所
+  name: 氏名
+  network: Network
+  organization: Organization
+  phone: 電話番号
+  position: 役職
+  postalCode: 郵便番号
+  profiles: プロフィール
+  projects: プロジェクト
+  publications: 出版物
+  publisher: 出版社
+  reference: 参照
+  references: 参照
+  region: 地域
+  releaseDate: 公開日
+  score: 評価点
+  skills: Skills
+  startDate: 勤務開始日
+  studyType: Study type
+  summary: 概要
+  table_of_contents: 目次
+  title: 題名
+  url: URL
+  username: ユーザー名
+  volunteer: Volunteer
+  work: 仕事
