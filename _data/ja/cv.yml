@@ -1,11 +1,11 @@
-- title: Informações Gerais
+- title: 一般的な情報
   type: map
   contents:
-    - name: Nome Completo
+    - name: 名前
       value: Albert Einstein
-    - name: Data de Nascimento
+    - name: 生年月日
       value: 14 de março de 1879
-    - name: Idiomas
+    - name: 出生地
       value: Inglês, Alemão
 
 - title: Educação
