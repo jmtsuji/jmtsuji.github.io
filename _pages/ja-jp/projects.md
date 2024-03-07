@@ -1,7 +1,7 @@
 ---
 page_id: projects
 layout: page
-title: projetos
+title: 研究
 permalink: /projects/
 description: Key themes of my current work
 nav: true

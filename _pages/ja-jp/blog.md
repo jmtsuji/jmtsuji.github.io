@@ -2,7 +2,7 @@
 page_id: blog
 layout: default
 permalink: /blog/
-title: Blog
+title: ブログ
 blog_name: Photo-geo-micro-eco
 description: A blog exploring miscellaneous research themes related to microbial ecology and Earth history
 nav: true
