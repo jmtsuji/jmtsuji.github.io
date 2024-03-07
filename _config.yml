@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+first_name: Jackson
+middle_name: M.
+last_name: Tsuji
+email: "jackson.tsuji [ at ] jamstec.go.jp"
+keywords: microbiology, photosynthesis, early earth, metagenomics # add your own keywords or leave empty
+icon: 🔬 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://jmtsuji.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -23,7 +23,7 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -33,7 +33,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -60,13 +60,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: jmtsuji # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: # your X handle
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+mastodon_username: mstdn.science/@jacksontsuji # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: 9W_OeUoAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -145,9 +145,9 @@ disqus_shortname: multi-language-al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+#external_sources:
+#  - name: medium.com
+#    rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -164,7 +164,7 @@ collections:
     permalink: /:collection/:title/
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -266,16 +266,16 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
-display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
+display_tags: ["coding", "microbial-cultivation", "field-sampling", "genomics"] # these tags will be displayed on the front page of your blog
+display_categories: # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Tsuji]
+  first_name: [Jackson, M.]
 
   style: apa
   locale: en
@@ -309,7 +309,7 @@ filtered_bibtex_keywords:
   [abbr, abstract, altmetric, arxiv, bibtex_show, blog, code, html, pdf, poster, preview, selected, slides, supp, video, website]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3 # leave blank to always show all authors
+max_author_limit: # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
@@ -330,11 +330,11 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en-us", "pt-br"]
-default_lang: "en-us"
+languages: ["en-ca", "ja-jp"]
+default_lang: "en-ca"
 exclude_from_localization: ["assets"]
 lang_from_path: true
-country_flag: false # set true for allowing flag symbol in language toggle
+country_flag: true # set true for allowing flag symbol in language toggle
 parallel_localization: false
 
 # -----------------------------------------------------------------------------
@@ -381,8 +381,8 @@ enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
 enable_navbar_social: false # enables displaying social links in the navbar on the about page
-enable_project_categories: true # enables categorization of projects into multiple categories
-enable_medium_zoom: true # enables image zoom feature (as on medium.com)
+enable_project_categories: false # enables categorization of projects into multiple categories
+enable_medium_zoom: false # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 
 # -----------------------------------------------------------------------------
@@ -460,21 +460,21 @@ vega-lite:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume_en-us
-    json: assets/json/resume_en-us.json # it can also be an url
-  - data: resume_pt-br
-    json: assets/json/resume_pt-br.json # it can also be an url
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+#jekyll_get_json:
+#  - data: resume_en
+#    json: assets/json/resume_en.json # it can also be an url
+#  - data: resume_pt-br
+#    json: assets/json/resume_ja.json # it can also be an url
+#jsonresume:
+#  - basics
+#  - work
+#  - education
+#  - publications
+#  - projects
+#  - volunteer
+#  - awards
+#  - certificates
+#  - skills
+#  - languages
+#  - interests
+#  - references

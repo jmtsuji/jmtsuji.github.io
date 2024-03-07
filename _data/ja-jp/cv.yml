@@ -1,0 +1,32 @@
+- title: 一般的な情報
+  type: map
+  contents:
+    - name: 名前
+      value: Albert Einstein
+
+- title: Educação
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Zurich, Zurique, Suíça
+      year: 1905
+      description:
+        - title: Descrição 3.
+
+- title: Experiência
+  type: time_table
+  contents:
+    - title: Professor de Física Teórica
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
+      description:
+        - Descrição 2.
+        - title: Descrição 3.
+
+- title: Honrarias e Prêmios
+  type: time_table
+  contents:
+    - year: 1921
+      items:
+        - Prêmio Nobel de Física
+        - Medalha Matteucci

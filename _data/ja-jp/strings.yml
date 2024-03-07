@@ -1,0 +1,94 @@
+blog:
+  navigation_title: blog
+contact_note: "メールアドレス：[ at ] をアットマークに置き換えてください"
+footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+latest_posts: 最新記事
+news: ニュース
+site_description: シンプルな、空白のある学者用テーマ。[*folio](https://github.com/bogoli/-folio) デザインに基づく。
+archive_category: このカテゴリーの記事のアーカイブ
+archive_tag: このタグの記事のアーカイブ
+archive_year: この年に掲載した記事のアーカイブ
+related_posts:
+  description: "関係がある記事はこちら："
+  title: この記事をお読みになりましたか？
+references: 参考文献
+months:
+  long:
+    january: 1月
+    february: 2月
+    march: 3月
+    april: 4月
+    may: 5月
+    june: 6月
+    july: 7月
+    august: 8月
+    september: 9月
+    october: 10月
+    november: 11月
+    december: 12月
+  short:
+    january: 1月
+    february: 2月
+    march: 3月
+    april: 4月
+    may: 5月
+    june: 6月
+    july: 7月
+    august: 8月
+    september: 9月
+    october: 10月
+    november: 11月
+    december: 12月
+no_news: 今のところニュースはない...
+pagination:
+  newer: より新しい
+  older: より古い
+  page: ページ
+cv:
+  address: 住所
+  area: エリア
+  awards: Awards
+  basics: 一般的な情報
+  city: 都市
+  countryCode: 国名コード
+  date: 日程
+  education: Education
+  email: メールアドレス
+  endDate: 勤務終了日
+  fluency: 流暢さ
+  highlights: Highlights
+  image: 画像
+  institution: 機関
+  keywords: キーワード
+  label: ラベル
+  language: 言語
+  languages: 言語
+  level: Level
+  location: 場所
+  name: 氏名
+  network: Network
+  organization: Organization
+  phone: 電話番号
+  position: 役職
+  postalCode: 郵便番号
+  profiles: プロフィール
+  projects: プロジェクト
+  publications: 出版物
+  publisher: 出版社
+  reference: 参照
+  references: 参照
+  region: 地域
+  releaseDate: 公開日
+  score: 評価点
+  skills: Skills
+  startDate: 勤務開始日
+  studyType: Study type
+  summary: 概要
+  table_of_contents: 目次
+  title: 題名
+  url: URL
+  username: ユーザー名
+  volunteer: Volunteer
+  work: 仕事
