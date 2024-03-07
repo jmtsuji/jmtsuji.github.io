@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: 自己紹介
+title: ホーム
 permalink: /
 subtitle: Microbial ecologist 🔬🦠 exploring life in ancient oceans 🌏☀️🪨
 
