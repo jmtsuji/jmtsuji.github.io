@@ -6,7 +6,7 @@ footer_text: > # the ">" symbol means to ignore newlines until "titles:"
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 latest_posts: 最新記事
 news: ニュース
-site_description: シンプルな、空白のある学者用テーマ。[*folio](https://github.com/bogoli/-folio) デザインに基づく。
+site_description: Jackson M. Tsujiの研究サイト
 archive_category: このカテゴリーの記事のアーカイブ
 archive_tag: このタグの記事のアーカイブ
 archive_year: この年に掲載した記事のアーカイブ
