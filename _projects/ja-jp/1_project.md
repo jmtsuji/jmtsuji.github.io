@@ -17,6 +17,8 @@ related_publications: false
     Boreal Shield lake at the IISD-Experimental Lakes Area (Ontario, Canada).
 </div>
 
+<p style="color:red">[ 申し訳ありませんが、このページはまだ日本語に翻訳されていません。とりあえず、英語ページの内容を以下に貼り付けておきます｡ ]</p>
+
 Conditions on the surface of the ancient Earth are thought to have been drastically different than they are on Earth today.
 In much of the earliest period of Earth's history amenable to life, the Archaean Eon (approximately 3.8-2.5 billion years ago), the Earth's atmosphere was likely devoid of molecular oxygen and
 was rich (by today's standards) in carbon dioxide and methane. The oceans for much of the Archaean Eon were rich
