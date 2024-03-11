@@ -2,6 +2,7 @@ blog:
   navigation_title: blog
 contact_note: "(Email: replace the [ at ] with the 'at' symbol)"
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+  Licensed under a <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0 license</a> unless indicated otherwise.<br>
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 latest_posts: Latest posts
