@@ -2,6 +2,7 @@ blog:
   navigation_title: blog
 contact_note: "メールアドレス：[ at ] をアットマークに置き換えてください"
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+  Licensed under a <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0 license</a> unless indicated otherwise.<br>
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 latest_posts: 最新記事
@@ -16,28 +17,28 @@ related_posts:
 references: 参考文献
 months:
   long:
-    january: 1月
-    february: 2月
-    march: 3月
-    april: 4月
-    may: 5月
-    june: 6月
-    july: 7月
-    august: 8月
-    september: 9月
+    january: 01月
+    february: 02月
+    march: 03月
+    april: 04月
+    may: 05月
+    june: 06月
+    july: 07月
+    august: 08月
+    september: 09月
     october: 10月
     november: 11月
     december: 12月
   short:
-    january: 1月
-    february: 2月
-    march: 3月
-    april: 4月
-    may: 5月
-    june: 6月
-    july: 7月
-    august: 8月
-    september: 9月
+    january: 01月
+    february: 02月
+    march: 03月
+    april: 04月
+    may: 05月
+    june: 06月
+    july: 07月
+    august: 08月
+    september: 09月
     october: 10月
     november: 11月
     december: 12月

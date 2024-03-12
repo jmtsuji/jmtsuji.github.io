@@ -17,6 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<p style="color:grey">[ 申し訳ありませんが、このページはまだ日本語に翻訳されていません。とりあえず、英語ページの内容を以下に貼り付けておきます｡ ]</p>
+
 As a Young Research Fellow at the <a href='https://www.jamstec.go.jp/e/'>Japan Agency for Marine-Earth Science and
 Technology (JAMSTEC)</a>, I'm thrilled to be able to study how life and Earth have co-evolved through the activity of
 microorganisms. Although too small to see with the naked eye, microorganisms have been one of the most powerful agents

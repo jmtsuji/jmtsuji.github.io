@@ -9,11 +9,11 @@
   Here, add language specific date formats
 {% endcomment %}
 
-{% if site.active_lang == 'en-us' %}
+{% if site.active_lang == 'en-ca' %}
   {{ month }}
   {{ day }}, {{ year }}
-{% elsif site.active_lang == 'pt-br' %}
-  {{ day }} de {{ month }}, {{ year }}
+{% elsif site.active_lang == 'ja-jp' %}
+  {{ day }}日 {{ month }} {{ year }}年
 {% else %}
   {{ day }}
   {{ month }}
