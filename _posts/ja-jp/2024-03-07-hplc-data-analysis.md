@@ -8,7 +8,7 @@ giscus_comments: false
 related_posts: false
 ---
 
-<p style="color:red">[ 申し訳ありませんが、このページはまだ日本語に翻訳されていません。とりあえず、英語ページの内容を以下に貼り付けておきます｡ ]</p>
+<p style="color:grey">[ 申し訳ありませんが、このページはまだ日本語に翻訳されていません。とりあえず、英語ページの内容を以下に貼り付けておきます｡ ]</p>
 
 When analyzing HPLC data or GC data, one often ends up using the commercial software that came with the device to
 find peaks and plot signals. In my case, I was working with an older instrument and wanted to try to find a solution in
