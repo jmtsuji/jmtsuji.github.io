@@ -1,23 +1,23 @@
 ---
 page_id: exploring_analogues
 layout: page
-title: Analogues of ancient Earth ocean ecosystems
+title: Analogues of ancient Earth oceans
 description: Probing unique modern environments to peer back through time at ancient metabolisms and nutrient cycles
-img: assets/img/boreal-shield-lake-crop.jpg
+img: assets/img/boreal-shield-lake-4x3.jpg
 importance: 1
 related_publications: false
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/boreal-shield-lake.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/boreal-shield-lake-wide.jpg" title="Photo of a Boreal Shield lake at the IISD-Experimental Lakes Area (Ontario, Canada)" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Boreal Shield lake at the IISD-Experimental Lakes Area (Ontario, Canada).
 </div>
 
-<p style="color:red">[ 申し訳ありませんが、このページはまだ日本語に翻訳されていません。とりあえず、英語ページの内容を以下に貼り付けておきます｡ ]</p>
+<p style="color:grey">[ 申し訳ありませんが、このページはまだ日本語に翻訳されていません。とりあえず、英語ページの内容を以下に貼り付けておきます｡ ]</p>
 
 Conditions on the surface of the ancient Earth are thought to have been drastically different than today.
 For much of the Archaean Eon, one of the earliest periods of Earth's history (approximately 3.8-2.5 billion years ago),
