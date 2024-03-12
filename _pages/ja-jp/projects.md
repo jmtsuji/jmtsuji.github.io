@@ -3,7 +3,7 @@ page_id: projects
 layout: page
 title: 研究テーマ
 permalink: /projects/
-description: Key themes of my current work
+description: 現在の研究の主なテーマ
 nav: true
 nav_order: 3
 horizontal: false
