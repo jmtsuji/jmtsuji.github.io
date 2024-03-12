@@ -267,7 +267,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["coding", "microbial-cultivation", "field-sampling", "genomics"] # these tags will be displayed on the front page of your blog
+display_tags: ["coding", "microbial-cultivation", "photosynthesis", "field-sampling", "genomics"] # these tags will be displayed on the front page of your blog
 display_categories: # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
