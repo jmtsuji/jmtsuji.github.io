@@ -3,6 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
+seo_title: Research website of Jackson M. Tsuji
 first_name: Jackson
 middle_name: M.
 last_name: Tsuji
@@ -127,7 +128,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: george-gca/multi-language-al-folio # <your-github-user-name>/<your-github-repo-name>
+  repo: jmtsuji/jmtsuji.github.io # <your-github-user-name>/<your-github-repo-name>
   repo_id: R_kgDOI6hBvA # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: DIC_kwDOI6hBvM4CYHn3 # leave empty or specify your category_id (see https://giscus.app/)
@@ -266,7 +267,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["coding", "microbial-cultivation", "field-sampling", "genomics"] # these tags will be displayed on the front page of your blog
+display_tags: ["coding", "microbial-cultivation", "photosynthesis", "field-sampling", "genomics"] # these tags will be displayed on the front page of your blog
 display_categories: # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
