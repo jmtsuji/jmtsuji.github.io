@@ -1,16 +1,16 @@
 ---
 page_id: exploring_analogues
 layout: page
-title: Analogues of ancient Earth ocean ecosystems
+title: Analogues of ancient Earth oceans
 description: Probing unique modern environments to peer back through time at ancient metabolisms and nutrient cycles
-img: assets/img/boreal-shield-lake-crop.jpg
+img: assets/img/boreal-shield-lake-4x3.jpg
 importance: 1
 related_publications: false
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/boreal-shield-lake.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/boreal-shield-lake.jpg" title="Photo of a Boreal Shield lake at the IISD-Experimental Lakes Area (Ontario, Canada)" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
