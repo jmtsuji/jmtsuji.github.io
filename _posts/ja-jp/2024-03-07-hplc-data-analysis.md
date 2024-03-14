@@ -14,7 +14,7 @@ When analyzing HPLC data or GC data, one often ends up using the commercial soft
 find peaks and plot signals. In my case, I was working with an older instrument and wanted to try to find a solution in
 Python. I came up with the following rough code, shown in an iPython notebook - this code is included in
 <a href='https://github.com/jmtsuji/Ca-Chlorohelix-allophototropha-RCI/blob/master/analysis_code/physiology/hplc/Fig1bc.ipynb'>
-the GitHub repo for a pre-print we uploaded to bioRxiv last year</a>. Basically, Scikit-learn is used to find peaks in
+the GitHub repo</a> for <a href='https://doi.org/10.1038/s41586-024-07180-y'>Tsuji <i>et al.</i>, Nature, 2024</a>. Basically, Scikit-learn is used to find peaks in
 the data, and everything is visualized using plotnine. I haven't tried to calculate peak areas yet.
 
 The code below is rough and would need to be cleaned up before it was ready for general use, but I wonder such code

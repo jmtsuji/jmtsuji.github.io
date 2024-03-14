@@ -45,7 +45,7 @@ iron-rich Boreal Shield lakes, although we have yet to confirm photoferrotrophy 
 (<a href='https://doi.org/10.1038/s41396-020-0725-0'>Tsuji <i>et al.</i>, ISME J, 2020</a>;
 <a href='https://doi.org/10.1038/srep46708'>Schiff <i>et al.</i>, Sci Rep, 2017</a>).
 Probing for photoferrotrophs ultimately led us to grow a highly unusual bacterium, named "<i>Candidatus</i> Chlorohelix
-allophototropha" (<a href='https://doi.org/10.1101/2020.07.07.190934'>Tsuji <i>et al.</i>, bioRxiv, 2023</a>), that
+allophototropha" (<a href='https://doi.org/10.1038/s41586-024-07180-y'>Tsuji <i>et al.</i>, Nature, 2024</a>), that
 performs phototrophy using a highly novel clade of Type I photosynthetic reaction center protein and whose disovery has
 major implications for understanding the evolution of photosynthesis. In future, I plan to examine the physiology and
 metabolism of "<i>Ca.</i> Chlorohelix allophototropha" in more detail and to further probe the implications of discovery
