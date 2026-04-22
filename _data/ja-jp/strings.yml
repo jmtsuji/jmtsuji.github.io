@@ -1,0 +1,164 @@
+archive:
+  prefix: an archive of
+  category_suffix: in this category
+  tag_suffix: with this tag
+  year_suffix: from this year
+bibliography:
+  abstract: Abs
+  awarded: Awarded
+  blog: Blog
+  book_prefix: In
+  code: Code
+  last_author_prefix: and
+  poster: Poster
+  slides: Slides
+  supp: Supp
+  video: Video
+  website: Website
+blog:
+  navigation_title: blog
+categories:
+  fun: fun
+  work: work
+citation:
+  bibtex: "or as a BibTeX entry:"
+  introduction: "If you found this useful, please cite this as:"
+collections:
+  books: books
+  posts: posts
+contact_note: "メールアドレス：[ at ] をアットマークに置き換えてください"
+cv:
+  address: 住所
+  area: エリア
+  awarder: Awarder
+  awards: Awards
+  basics: 一般的な情報
+  certificates: Certificates
+  city: 都市
+  countryCode: 国名コード
+  courses: Courses
+  date: 日程
+  education: Education
+  email: メールアドレス
+  endDate: 勤務終了日
+  fluency: 流暢さ
+  highlights: Highlights
+  image: 画像
+  institution: 機関
+  interests: Interests
+  issuer: Issuer
+  keywords: キーワード
+  label: ラベル
+  language: 言語
+  languages: 言語
+  level: Level
+  location: 場所
+  name: 氏名
+  network: Network
+  organization: Organization
+  phone: 電話番号
+  position: 役職
+  postalCode: 郵便番号
+  present: Present
+  profiles: プロフィール
+  projects: プロジェクト
+  publications: 出版物
+  publisher: 出版社
+  reference: 参照
+  references: 参照
+  region: 地域
+  releaseDate: 公開日
+  score: 評価点
+  skills: Skills
+  startDate: 勤務開始日
+  studyType: Study type
+  summary: 概要
+  table_of_contents: 目次
+  title: 題名
+  url: Url
+  username: ユーザー名
+  volunteer: Volunteer
+  work: 仕事
+footer:
+  copyright: Copyright
+  last_updated: "Last updated:"
+footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+  Licensed under a <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0 license</a> unless indicated otherwise.<br>
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+latest_posts: 最新記事
+months:
+  long:
+    january: 01月
+    february: 02月
+    march: 03月
+    april: 04月
+    may: 05月
+    june: 06月
+    july: 07月
+    august: 08月
+    september: 09月
+    october: 10月
+    november: 11月
+    december: 12月
+  short:
+    january: 01月
+    february: 02月
+    march: 03月
+    april: 04月
+    may: 05月
+    june: 06月
+    july: 07月
+    august: 08月
+    september: 09月
+    october: 10月
+    november: 11月
+    december: 12月
+news: ニュース
+newsletter:
+  back: Back
+  error: "Oops! Something went wrong, please try again."
+  subscribe: subscribe
+  subscribed: "You have successfully subscribed to the newsletter."
+  subscribe_to_receive: "Subscribe to be notified of future articles:"
+  too_many_signups: "Too many signups, please try again in a little while"
+  wait: "Please wait..."
+no_news: 今のところニュースはない...
+no_posts: "No posts so far..."
+pagination:
+  page: ページ
+post:
+  created_in: Created in
+  created_by: by
+  last_updated: last updated in
+references: 参考文献
+related_posts:
+  description: "関係がある記事はこちら："
+  title: この記事をお読みになりましたか？
+search:
+  dark_theme:
+    description: Change the theme of the site to Dark
+    title: Change theme to dark
+  dropdown: Dropdown
+  email: Send an email
+  footer:
+    close: to close
+    navigate: to navigate
+    parent: move to parent
+    select: to select
+  languages: Languages
+  light_theme:
+    description: Change the theme of the site to Light
+    title: Change theme to light
+  navigation: Navigation menu
+  news: News
+  placeholder: Type to start searching
+  posts: Posts
+  projects: Projects
+  socials: Socials
+  system_theme:
+    description: Change the theme of the site to System Default
+    title: Use system default theme
+  theme: Theme
+selected_publications: selected publications
+site_description: Jackson Makoto Tsujiの研究サイト
