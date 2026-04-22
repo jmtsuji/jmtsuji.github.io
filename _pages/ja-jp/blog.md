@@ -2,7 +2,7 @@
 page_id: blog
 layout: default
 permalink: /blog/
-title: blog
+title: ブログ
 blog_name: Under the microscope
 description: A blog exploring miscellaneous research themes related to microorganisms and global ecology
 nav: true

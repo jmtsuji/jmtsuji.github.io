@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: about
+title: ホーム
 permalink: /
 subtitle: Microbial ecologist 🔬🦠 exploring life across space, time, and O<sub>2</sub> gradients 🌏☀️🪨
 
