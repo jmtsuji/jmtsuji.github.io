@@ -14,16 +14,16 @@ profile:
     <p>Nishigonaka 38, Myodaiji</p>
     <p>Okazaki, Japan, 444-8585</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -43,7 +43,8 @@ Check out the <a href='/projects'>Research</a> tab to see the active research th
 <a href='/blog'>newly made blog</a> I hope to update from time to time with thoughts about experiments, code, or other things
 related to microbial ecology.
 
-**Education, work experience, and award** info can be found on my <a href='https://www.jamstec.go.jp/sugar/e/members/personal/Jackson_M_Tsuji.html'>JAMSTEC webpage</a>.
+**Education, work experience, and award** info can be found on my <a href='https://www.jamstec.go.jp/sugar/e/members/personal/Jackson_M_Tsuji.html'>JAMSTEC webpage</a> (to be updated soon).
+
 **Publications** are listed in my <a href='https://scholar.google.com/citations?user=9W_OeUoAAAAJ&hl'>Google Scholar account</a>.
 
 Want to get in touch about science? Check out other **social media** icons at the bottom of this page for ways to contact me.
