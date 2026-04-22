@@ -10,9 +10,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>National Institute for Basic Biology (NIBB)</p>
-    <p>Nishigonaka 38, Myodaiji</p>
-    <p>Okazaki, Japan, 444-8585</p>
+    <p>自然科学研究機構　基礎生物学研究所</p>
+    <p>環境光生物学研究部門</p>
+    <p>〒444-8585 愛知県岡崎市明大寺町西郷中38</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
