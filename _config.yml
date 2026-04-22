@@ -209,6 +209,7 @@ exclude:
   - README.pt-br.md
   - readme_preview/
   - UPGRADING.md
+  - UPGRADING.pt-br.md
   - vendor
   - _pages/en-ca/unused
   - _pages/ja-jp/unused
