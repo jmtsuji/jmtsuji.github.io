@@ -1,164 +1,164 @@
 archive:
-  prefix: um arquivo de
-  category_suffix: desta categoria
-  tag_suffix: com este marcador
-  year_suffix: deste ano
+  prefix: an archive of
+  category_suffix: in this category
+  tag_suffix: with this tag
+  year_suffix: from this year
 bibliography:
   abstract: Abs
-  awarded: Premiado
+  awarded: Awarded
   blog: Blog
-  book_prefix: Em
-  code: Código
-  last_author_prefix: e
+  book_prefix: In
+  code: Code
+  last_author_prefix: and
   poster: Poster
   slides: Slides
-  supp: Supl
-  video: Vídeo
-  website: Site
+  supp: Supp
+  video: Video
+  website: Website
 blog:
   navigation_title: blog
 categories:
-  fun: diversão
-  work: trabalho
+  fun: fun
+  work: work
 citation:
-  bibtex: "ou como uma citação em BibTeX:"
-  introduction: "Se você achou isso útil, por favor cite como:"
+  bibtex: "or as a BibTeX entry:"
+  introduction: "If you found this useful, please cite this as:"
 collections:
-  books: livros
-  posts: postagens
-contact_note: Você pode até adicionar uma pequena observação sobre qual dessas é a melhor maneira de entrar em contato com você.
+  books: books
+  posts: posts
+contact_note: "メールアドレス：[ at ] をアットマークに置き換えてください"
 cv:
-  address: Endereço
-  area: Área
-  awarder: Premiado por
-  awards: Prêmios
-  basics: Informações gerais
-  certificates: Certificados
-  city: Cidade
-  countryCode: Código do país
-  courses: Cursos
-  date: Data
-  education: Educação
-  email: Email
-  endDate: Data de término
-  fluency: Fluência
-  highlights: Destaques
-  image: Imagem
-  institution: Instituição
-  interests: Interesses
-  issuer: Emissor
-  keywords: Palavras chave
-  label: Título
-  language: Idioma
-  languages: Idiomas
-  level: Nível
-  location: Localização
-  name: Nome
-  network: Rede
-  organization: Organização
-  phone: Telefone
-  position: Posição
-  postalCode: Código postal
-  present: Presente
-  profiles: Perfis
-  projects: Projetos
-  publications: Publicações
-  publisher: Editora
-  reference: Referência
-  references: Referências
-  region: Região
-  releaseDate: Data de lançamento
-  score: Pontuação
-  skills: Habilidades
-  startDate: Data de início
-  studyType: Tipo de estudo
-  summary: Resumo
-  table_of_contents: Tópicos
-  title: Título
+  address: 住所
+  area: エリア
+  awarder: Awarder
+  awards: Awards
+  basics: 一般的な情報
+  certificates: Certificates
+  city: 都市
+  countryCode: 国名コード
+  courses: Courses
+  date: 日程
+  education: Education
+  email: メールアドレス
+  endDate: 勤務終了日
+  fluency: 流暢さ
+  highlights: Highlights
+  image: 画像
+  institution: 機関
+  interests: Interests
+  issuer: Issuer
+  keywords: キーワード
+  label: ラベル
+  language: 言語
+  languages: 言語
+  level: Level
+  location: 場所
+  name: 氏名
+  network: Network
+  organization: Organization
+  phone: 電話番号
+  position: 役職
+  postalCode: 郵便番号
+  present: Present
+  profiles: プロフィール
+  projects: プロジェクト
+  publications: 出版物
+  publisher: 出版社
+  reference: 参照
+  references: 参照
+  region: 地域
+  releaseDate: 公開日
+  score: 評価点
+  skills: Skills
+  startDate: 勤務開始日
+  studyType: Study type
+  summary: 概要
+  table_of_contents: 目次
+  title: 題名
   url: Url
-  username: Usuário
-  volunteer: Voluntário
-  work: Trabalho
+  username: ユーザー名
+  volunteer: Volunteer
+  work: 仕事
 footer:
-  copyright: Direitos autorais
-  last_updated: "Última atualização:"
+  copyright: Copyright
+  last_updated: "Last updated:"
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
-  Desenvolvido em <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> com o tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
-  Hospedado por <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Fotos do <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-latest_posts: últimas postagens
+  Licensed under a <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0 license</a> unless indicated otherwise.<br>
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+latest_posts: 最新記事
 months:
   long:
-    january: Janeiro
-    february: Fevereiro
-    march: Março
-    april: Abril
-    may: Maio
-    june: Junho
-    july: Julho
-    august: Agosto
-    september: Setembro
-    october: Outubro
-    november: Novembro
-    december: Dezembro
+    january: 01月
+    february: 02月
+    march: 03月
+    april: 04月
+    may: 05月
+    june: 06月
+    july: 07月
+    august: 08月
+    september: 09月
+    october: 10月
+    november: 11月
+    december: 12月
   short:
-    january: Jan
-    february: Fev
-    march: Mar
-    april: Abr
-    may: Mai
-    june: Jun
-    july: Jul
-    august: Ago
-    september: Set
-    october: Out
-    november: Nov
-    december: Dez
-news: novidades
+    january: 01月
+    february: 02月
+    march: 03月
+    april: 04月
+    may: 05月
+    june: 06月
+    july: 07月
+    august: 08月
+    september: 09月
+    october: 10月
+    november: 11月
+    december: 12月
+news: ニュース
 newsletter:
-  back: Voltar
-  error: "Oops! Algo deu errado, por favor tente novamente."
-  subscribe: inscrever-se
-  subscribed: "Você se inscreveu com sucesso na newsletter."
-  subscribe_to_receive: "Inscreva-se para ser notificado de futuros artigos:"
-  too_many_signups: "Muitas inscrições, por favor tente novamente em breve"
-  wait: "Por favor, aguarde..."
-no_news: Nenhuma novidade no momento...
-no_posts: "Nenhuma postagem até agora..."
+  back: Back
+  error: "Oops! Something went wrong, please try again."
+  subscribe: subscribe
+  subscribed: "You have successfully subscribed to the newsletter."
+  subscribe_to_receive: "Subscribe to be notified of future articles:"
+  too_many_signups: "Too many signups, please try again in a little while"
+  wait: "Please wait..."
+no_news: 今のところニュースはない...
+no_posts: "No posts so far..."
 pagination:
-  page: página
+  page: ページ
 post:
-  created_in: Criado em
-  created_by: por
-  last_updated: última atualização em
-references: Referências
+  created_in: Created in
+  created_by: by
+  last_updated: last updated in
+references: 参考文献
 related_posts:
-  description: "Aqui estão alguns artigos relacionados que você pode gostar de ler:"
-  title: Gostou de Ler este Artigo?
+  description: "関係がある記事はこちら："
+  title: この記事をお読みになりましたか？
 search:
   dark_theme:
-    description: Muda o tema do site para escuro
-    title: Muda o tema para escuro
-  dropdown: Outras opções
-  email: Enviar um email
+    description: Change the theme of the site to Dark
+    title: Change theme to dark
+  dropdown: Dropdown
+  email: Send an email
   footer:
-    close: para fechar
-    navigate: para navegar
-    parent: voltar um nível
-    select: para selecionar
-  languages: Idiomas
+    close: to close
+    navigate: to navigate
+    parent: move to parent
+    select: to select
+  languages: Languages
   light_theme:
-    description: Muda o tema do site para claro
-    title: Muda o tema para claro
-  navigation: Menu de navegação
-  news: Novidades
-  placeholder: Digite para iniciar a busca
-  posts: Postagens
-  projects: Projetos
-  socials: Redes sociais
+    description: Change the theme of the site to Light
+    title: Change theme to light
+  navigation: Navigation menu
+  news: News
+  placeholder: Type to start searching
+  posts: Posts
+  projects: Projects
+  socials: Socials
   system_theme:
-    description: Muda o tema do site para o padrão do sistema
-    title: Usa o tema padrão do sistema
-  theme: Tema
-selected_publications: publicações selecionadas
-site_description: Um tema simples para acadêmicos. Baseado no design do [*folio](https://github.com/bogoli/-folio).
+    description: Change the theme of the site to System Default
+    title: Use system default theme
+  theme: Theme
+selected_publications: selected publications
+site_description: Jackson Makoto Tsujiの研究サイト
