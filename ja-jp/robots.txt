@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jmtsuji.github.io/sitemap.xml
+Sitemap: https://microbiogeo.ca/sitemap.xml
