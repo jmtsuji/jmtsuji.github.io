@@ -10,9 +10,11 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>自然科学研究機構　基礎生物学研究所</p>
-    <p>環境光生物学研究部門</p>
-    <p>〒444-8585 愛知県岡崎市明大寺町西郷中38</p>
+    <p>Wilfrid Laurier University</p>
+    <p>Department of Biology</p>
+    <p>75 University Avenue West</p>
+    <p>Waterloo, Ontario</p>
+    <p>Canada  N2L 3C5</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,8 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-As a Project Assistant Professor at the <a href='https://www.nibb.ac.jp/sections/division/minagawa/'>National Institute 
-for Basic Biology (NIBB)</a>, I'm thrilled to be able to study how life and Earth have co-evolved through the activity of
+As an Assistant Professor at the <a href='https://wlu.ca'>Wilfrid Laurier University</a>, I'm thrilled to be able to study how life and Earth have co-evolved through the activity of
 microorganisms. Although too small to see with the naked eye, microorganisms have been one of the most powerful agents
 of natural global change over Earth's history and continue to have a profound effect on our water bodies, atmosphere, and
 ecosystem services. I study modern microorganisms to try to unravel how their ancestors participated in large-scale

@@ -10,9 +10,11 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>National Institute for Basic Biology (NIBB)</p>
-    <p>Nishigonaka 38, Myodaiji</p>
-    <p>Okazaki, Japan, 444-8585</p>
+    <p>Wilfrid Laurier University</p>
+    <p>Department of Biology</p>
+    <p>75 University Avenue West</p>
+    <p>Waterloo, Ontario</p>
+    <p>Canada  N2L 3C5</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
