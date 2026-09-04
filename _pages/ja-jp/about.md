@@ -30,7 +30,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-As an Assistant Professor at the <a href='https://wlu.ca'>Wilfrid Laurier University</a>, I'm thrilled to be able to study how life and Earth have co-evolved through the activity of
+<i>This website is actively under construction. Keep checking in for updates as the Laurier Microbial Bioegeochemistry Lab gets off the ground!</i>
+
+As an Assistant Professor at <a href='https://wlu.ca'>Wilfrid Laurier University</a>, I'm thrilled to be able to study how life and Earth have co-evolved through the activity of
 microorganisms. Although too small to see with the naked eye, microorganisms have been one of the most powerful agents
 of natural global change over Earth's history and continue to have a profound effect on our water bodies, atmosphere, and
 ecosystem services. I study modern microorganisms to try to unravel how their ancestors participated in large-scale
